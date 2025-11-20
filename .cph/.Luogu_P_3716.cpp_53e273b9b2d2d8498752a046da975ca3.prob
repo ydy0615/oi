@@ -1,0 +1,1 @@
+{"name":"Luogu - P3716","url":"https://www.luogu.com.cn/problem/P3716","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1761528099538,"input":"2\n1 1\n5 5\n1 3 3 3\n6 2 8 4","output":"3"}],"group":"luogu","srcPath":"/home/stu/oi/Luogu_P_3716.cpp"}

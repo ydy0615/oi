@@ -1,0 +1,1 @@
+{"name":"Luogu - CF2014H","url":"https://www.luogu.com.cn/problem/CF2014H","memoryLimit":256000,"timeLimit":3000,"tests":[{"id":1762735710269,"input":"2\n3 3\n1 2 2\n1 2\n1 3\n2 3\n5 3\n2 1 2 1 1\n1 2\n1 3\n4 5","output":"NO\nNO\nYES\nNO\nNO\nYES"},{"id":1762740509159,"input":"1\n3 1\n1 2 3\n1 3","output":""}],"group":"luogu","srcPath":"/home/stu/oi/Luogu_CF_2014_H.cpp"}

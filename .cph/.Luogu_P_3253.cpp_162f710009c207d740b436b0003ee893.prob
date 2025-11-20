@@ -1,0 +1,1 @@
+{"name":"Luogu - P3253","url":"https://www.luogu.com.cn/problem/P3253","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1762945478806,"input":"3 3\n1\n4\n5\n2\n7\n3","output":"6"}],"group":"luogu","srcPath":"/home/stu/oi/Luogu_P_3253.cpp"}

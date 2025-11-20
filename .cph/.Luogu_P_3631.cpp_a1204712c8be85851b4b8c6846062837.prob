@@ -1,0 +1,1 @@
+{"name":"Luogu - P3631","url":"https://www.luogu.com.cn/problem/P3631","memoryLimit":262144,"timeLimit":3000,"tests":[{"id":1762846825144,"input":"3 4 3\n2 2 1\n1 2 0\n2 3 1","output":"8"}],"group":"luogu","srcPath":"/home/stu/oi/Luogu_P_3631.cpp"}

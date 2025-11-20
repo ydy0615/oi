@@ -1,0 +1,1 @@
+{"name":"Luogu - P4514","url":"https://www.luogu.com.cn/problem/P4514","memoryLimit":131072,"timeLimit":2000,"tests":[{"id":1762952817191,"input":"X 4 4\nL 1 1 3 3 2\nL 2 2 4 4 1\nk 2 2 3 3","output":"12"}],"group":"luogu","srcPath":"/home/stu/oi/Luogu_P_4514.cpp"}
