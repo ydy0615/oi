@@ -1,1 +1,0 @@
-{"name":"Luogu - P12818","url":"https://www.luogu.com.cn/problem/P12818","memoryLimit":524288,"timeLimit":3000,"tests":[{"input":"6 3\n1 3 5","output":"0 2\n2 4\n4 6","id":1760359580670},{"id":1760359580671,"input":"10 2\n1 2","output":"0 2\n2 10"}],"group":"luogu","srcPath":"/home/stu/oi/Luogu_P_12818.cpp"}

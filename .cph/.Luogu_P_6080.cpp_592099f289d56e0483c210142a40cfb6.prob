@@ -1,1 +1,0 @@
-{"name":"Luogu - P6080","url":"https://www.luogu.com.cn/problem/P6080","memoryLimit":128000,"timeLimit":1000,"tests":[{"id":1762691392365,"input":"9 6 10\n5\n6\n2\n10\n10\n7\n3\n2\n9\n1\n4\n4\n3\n2\n1","output":"1\n3"}],"group":"luogu","srcPath":"/home/stu/oi/Luogu_P_6080.cpp"}
