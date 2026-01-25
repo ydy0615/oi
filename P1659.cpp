@@ -72,7 +72,6 @@ signed main(){
 	for(int i=1;i<n;i++){
 		if(i%2 && ans[i]>l){
 			anss=anss*f[ans[i]]%mod;
-			//cout<<ans[i]<<" "<<l<<" "<<f[ans[i]]<<"\n";
 			K-=ans[i]-l;
 		}
 	}
